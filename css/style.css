@@ -1,0 +1,198 @@
+body{ 
+background-color: #F7F7F7;
+
+}
+
+.header{ 
+   background:#E40046;
+}
+.header .header-top{ 
+    background: #C7003D;
+    color:white;
+    padding:3px 3px;
+    font-size: 14px;
+}
+.header .header-top .nav .nav-item .nav-link{ 
+    color:white;
+    font-size:14px;
+}
+
+.header .header-bottom .nav .nav-item .nav-link{ 
+color:white;
+vertical-align: middle;
+
+}
+.header .header-bottom .nav .nav-item .nav-link i{ 
+color:white;
+font-size:30px;
+vertical-align:middle;
+text-decoration: none;
+}
+.maincate{
+    margin-left: -8px;
+}
+
+
+
+
+
+.maincate .nav-item .nav-link{
+   position: relative;
+   padding-left: 43px;
+   color: #999;
+
+   padding-top: 12px;
+   padding-bottom: 12px;
+
+   border: 1px solid transparent;
+   border-right-width: 0px;
+   border-left-width: 3px;
+
+    
+   
+    
+}
+
+.maincate .nav-item:hover .nav-link{
+    border-color: #ccc;
+ 
+    border-left-color: #E40046;
+
+  
+}
+
+
+.maincate .nav-item .nav-link img{
+    height: 28px;
+    width: 28px;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+.morecate{
+
+    margin-left: -8px;
+
+}
+
+
+
+
+.morecate .nav-item .nav-link{
+    position: relative;
+ 
+    color: #999;
+ 
+   padding: 5px 5px;
+ 
+    border: 1px solid transparent;
+    border-right-width: 0px;
+    border-left-width: 3px;
+ 
+     
+    
+     
+ }
+ 
+ .morecate .nav-item:hover .nav-link{
+     border-color: #ccc;
+  
+     border-left-color: #E40046;
+ 
+   
+ }
+ 
+ .claaffe .carousel img{
+    height: 300px;
+    object-fit: cover;
+    }
+.card .card-body img{ 
+    display: block;
+    margin:0px auto;
+    text-align: center;
+}
+.card .card-body p{ 
+    padding-top: 15px;
+    text-align: center;
+}
+.card .card-body .button{ 
+    padding-top: 10px;
+    text-align: center;
+}
+.card .card-body .offer{ 
+    color:#C3E7FA;
+}
+ .splide__slide{ 
+    padding:0px 5px;
+
+}
+.mice .splide{ 
+    background-color: #F7F7F7;
+border:3px solid white;
+}
+.mice h5{ 
+margin-top: 40px;
+margin-bottom: 25px;
+color:#999;
+
+}
+.mice .thumbnail-card .thumbnail-card-text{ 
+color:gray;
+padding:5px 0px;
+font-size: 12px;
+
+}
+.mice .thumbnail-card .thumbnail-card-text .offer{ 
+padding-top:20px;
+
+}
+.mice .thumbnail-card .thumbnail-card-text .offer .button{ 
+    border:1px solid gray;
+    color:gray;
+}
+.mice .thumbnail-card:hover{ 
+    cursor: pointer;
+   
+    
+}
+.content{ 
+    background-color: white;
+    border:3px solid white;
+}
+.content .product{ 
+    margin-top: 25px;
+
+    padding:10px 8px;
+    border:3px solid transparent;
+    
+
+}
+.content .product:hover{ 
+    cursor: pointer;
+}
+.splide__list{ 
+    height: auto;
+}
+.content .product .text { 
+    color:gray;
+    font-size: 12px;
+}
+.content .offer { 
+color:gray;
+padding:5px 0px;
+padding-top: 20px;
+font-size: 12px;
+
+}
+.content .offer .button{ 
+    padding-left:5px;
+    border:1px solid gray;
+}
+
+
+
+
+
+
